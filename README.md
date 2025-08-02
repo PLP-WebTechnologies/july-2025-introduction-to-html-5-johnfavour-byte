@@ -19,7 +19,7 @@ For SEO, emphasize the use of heading tags in the correct order, provide descrip
 
 ## Deliverables
 
-A single HTML file named `index.html`. It should include:
+A single HTML file named `index.html`. It should include the following:
 
 * A semantic structure using appropriate HTML5 elements.
 * Clear headings in a logical hierarchy.
